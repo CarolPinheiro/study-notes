@@ -10,7 +10,6 @@ theme:
     - navigation.tracking
     - navigation.instant
     - navigation.tabs
-    - navigation.sections
     - navigation.path
     - navigation.indexes
     - navigation.footer
@@ -49,4 +48,13 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
 nav:
-  - Início: index.md
+  - Assuntos estudados: 
+    - index.md
+    - Typescript:
+      - Utility Types: typescript/utility-types.md
+    - Shell:
+      - Comandos: shell/comandos.md
+      - Teoria: shell/teoria.md
+    - Design Patterns:
+      - Creational:
+        - Singleton: design-patterns/creational/singleton.md
