@@ -57,6 +57,7 @@ nav:
       - Teoria: shell/teoria.md
     - Arquitetura:
       - DDD: arquitetura/DDD/intro.md
+      - Concorrência: arquitetura/concorrencia/intro.md
       - Design Patterns:
         - Creational:
           - Singleton: design-patterns/creational/singleton.md
