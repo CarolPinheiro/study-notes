@@ -50,8 +50,11 @@ markdown_extensions:
 nav:
   - Assuntos estudados: 
     - index.md
-    - Typescript:
-      - Utility Types: typescript/utility-types.md
+    - Linguagens de Programação:
+      - Golang:
+        - Teoria: linguagens-de-programacao/golang/intro.md
+      - Typescript:
+        - Utility Types: linguagens-de-programacao/typescript/utility-types.md
     - Shell:
       - Comandos: shell/comandos.md
       - Teoria: shell/teoria.md
