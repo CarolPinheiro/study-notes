@@ -55,6 +55,8 @@ nav:
     - Shell:
       - Comandos: shell/comandos.md
       - Teoria: shell/teoria.md
-    - Design Patterns:
-      - Creational:
-        - Singleton: design-patterns/creational/singleton.md
+    - Arquitetura:
+      - DDD: arquitetura/DDD/intro.md
+      - Design Patterns:
+        - Creational:
+          - Singleton: design-patterns/creational/singleton.md
