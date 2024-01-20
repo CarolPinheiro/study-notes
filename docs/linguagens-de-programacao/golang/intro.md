@@ -7,7 +7,7 @@ Todo programa em Go é baseado em pacotes, e é executado a partir do pacote mai
 
 Por convenção o nome do pacote é sempre a última parte do pacote importado, por exemplo o pacote `math/rand`, quando formos chamar ele a nível de código, chamaremos como `rand`.
 
-![[Untitled (1).png]]
+![[docs/docs/linguagens-de-programacao/golang/Untitled (1).png]]
 ## Imports
 
 Você pode realizar imports em go de duas formas. Sendo a mais indicada o modelo "factored":
